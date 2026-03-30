@@ -206,6 +206,11 @@ footer a {
   color: #ffcb05;
 }
 
+.dark-mode .skip a {
+  background-color: #ffcb05;
+  color: #000000;
+}
+
 .dark-mode .container > section {
   background-color: #1c1c1c;
   color: #ffffff;
